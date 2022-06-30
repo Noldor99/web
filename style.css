@@ -1,0 +1,62 @@
+.main{
+
+}
+
+.din471 {
+
+}
+
+.din471__wrap {
+   max-width: 1000px;
+   margin: 0 auto;
+   padding-top: 30px;
+
+}
+
+.din471__counter {
+   position: relative;
+
+}
+
+   .din471__photo{
+      margin: 0 auto;
+      display: block;
+   }
+
+.din471__body {
+
+}
+
+.counter__value-m {
+ position: absolute;
+ top: 0;
+ right: 305px;
+ width: 30px;
+}
+
+.next__value-d2 {
+   position: absolute;
+   top: 191px;
+   right: 197px;
+   width: 30px;
+
+}
+
+.next__value-n {
+   position: absolute;
+   top: 47px;
+   right: 265px;
+   width: 30px;
+}
+
+.din471__start {
+
+}
+
+.next__value-d1 {
+
+}
+
+.counter__btn {
+
+}
