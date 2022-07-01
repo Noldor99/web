@@ -115,3 +115,141 @@ h2{
       width: 30px;
    
    }
+
+   .bearing__counter{
+      display: flex;
+      justify-content: space-between;
+      transition: all 0.3s ease;
+      
+   }
+   .bearing__counter:hover{
+      transition: all 0.3s ease;
+   }
+   .bearing__skf{
+      width: 300px;
+   }
+   .bearing__counter a:hover{
+      transition: all 0.3s ease;
+   }
+
+   .bearing__skf:hover{
+      width: 300px;
+      transform: scale(1.2);
+      transition: all 0.3s ease;
+   }
+
+
+.bearing__next:hover{
+      transform: scale(1.2);
+      transition: all 0.3s ease;
+   }
+.spline__photo{
+   width: 1000px;
+}
+
+.spline__value-b{
+   position: absolute;
+   top: 457px;
+   right: 295px;
+   width: 30px;
+   color: red;
+   background: rgb(176, 255, 244);
+   border: none;
+   font-size: 18px;
+}
+.spline__parag-b_h{
+   position: absolute;
+   top: 393px;
+   right: 266px;
+   color: red;
+   background: rgb(176, 255, 244);
+   font-size: 27px;
+}
+.spline__value-h{
+   position: absolute;
+   top: 457px;
+   right: 250px;
+   width: 30px;
+   color: red;
+   background: rgb(176, 255, 244);
+   border: none;
+   font-size: 18px;
+}
+.spline__value-l_1{
+   position: absolute;
+   top: 578px;
+   right: 478px;
+   width: 30px;
+   color: red;
+   background: rgb(176, 255, 244);
+   border: none;
+   font-size: 18px;
+}
+.spline__value-l_2{
+   position: absolute;
+   top: 478px;
+   right: 478px;
+   width: 30px;
+   color: red;
+   background: rgb(176, 255, 244);
+   border: none;
+   font-size: 18px;
+}
+.spline__value-l{
+   position: absolute;
+   top: 760px;
+   right: 371px;
+   width: 60px;
+   color: red;
+   background: rgb(176, 255, 244);
+   border: none;
+   font-size: 18px;
+}
+.spline__minus{
+   position: absolute;
+   top: 595px;
+   right: 286px;
+   width: 70px;
+   color: red;
+   background: rgb(176, 255, 244);
+   border: none;
+   font-size: 18px;
+}
+.spline__plus{
+   position: absolute;
+   top: 630px;
+   right: 286px;
+   width: 70px;
+   color: red;
+   background: rgb(176, 255, 244);
+   border: none;
+   font-size: 18px;
+}
+.spline__value-plus{
+   position: absolute;
+   top: 648px;
+   right: 211px;
+   width: 60px;
+   color: red;
+   background: rgb(176, 255, 244);
+   border: none;
+   font-size: 18px;
+}
+
+.spline__value-minus{
+   position: absolute;
+   top: 611px;
+   right: 211px;
+   width: 60px;
+   color: red;
+   background: rgb(176, 255, 244);
+   border: none;
+   font-size: 18px;
+}
+
+.spline__simple{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding-bottom: 300px;
+}

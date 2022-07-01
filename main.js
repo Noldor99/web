@@ -152,5 +152,3 @@ const counter_din472 = function () {
       return arr[d1.indexOf(a)];
    }
 };
-
-counter_din472();
