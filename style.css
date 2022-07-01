@@ -1,3 +1,11 @@
+h2{
+   font-size: 54px;
+   line-height: 28px;
+   color: rgb(47, 0, 175);
+   text-align: center;
+}
+
+
 .main{
 
 }
@@ -74,3 +82,36 @@
 .counter__btn {
 
 }
+
+
+
+.din472__value-d2 {
+   position: absolute;
+   top: 207px;
+   right: 114px;
+   width: 30px;
+
+}
+
+.din472__parag-d2 {
+   position: absolute;
+   top: 183px;
+   right: 9px;
+   width: 100px;
+   
+}
+
+   .din472__value-n {
+      position: absolute;
+      top: 51px;
+      right: 230px;
+      width: 30px;
+   
+   }
+   .din472__value-m {
+      position: absolute;
+      top: -15px;
+      right: 295px;
+      width: 30px;
+   
+   }
